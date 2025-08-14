@@ -153,3 +153,5 @@ logs
 
 # Data
 data
+
+*.db
